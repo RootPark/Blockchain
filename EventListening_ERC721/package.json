@@ -1,0 +1,12 @@
+{
+  "name": "EventListening_721",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "eventlistening test",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "web3": "^1.9.0"
+  }
+}
